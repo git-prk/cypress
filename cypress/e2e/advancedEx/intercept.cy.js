@@ -13,6 +13,30 @@ describe('intercept in cypress',function(){
     //     cy.get('.network-comment').should('contain','laudantium enim quasi est quidem magnam voluptate')
     // })
 
+it('verify response on get comment', function(){
+    
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     it('Testcase one',function(){
         cy.intercept({
             method:"GET",

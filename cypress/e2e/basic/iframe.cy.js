@@ -29,7 +29,7 @@ describe('Iframe',function(){
     })
 
     
-    it.only('iframe 4 - javascript',function(){
+    it('iframe 4 - javascript',function(){
         cy.visit('https://webdriveruniversity.com/IFrame/index.html')
         cy.getiframe('frame').find('a[href= "index.html"]').should('have.text',"Home")
         

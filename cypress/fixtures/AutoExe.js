@@ -1,0 +1,19 @@
+export default  {
+    signupName : "pranita",
+    signupemail : `pranita1${Math.floor(Math.random(10000)*6)}@gamil.com`,
+    title : 'Mrs',
+    password : 'pranita',
+    dd : "8",
+    mm : 'June',
+    yy : "2000",
+    fname : "pranita",
+    lname : 'k',
+    company : 'Minskole',
+    address1 : 'mumbai',
+    address2 : 'andheri',
+    country : 'India',
+    state : 'maharashtra',
+    city : 'Mumbai',
+    zipcode : 400001,
+    mobno : 9326789098
+}
